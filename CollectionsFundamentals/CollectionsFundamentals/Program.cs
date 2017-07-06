@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Equality_and_Comparisons
+namespace CollectionsFundamentals
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Testing Update");
+			Console.WriteLine("Testing 1");
 		}
-
 	}
 }

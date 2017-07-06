@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Equality_and_Comparisons
+namespace ConsoleApplication1
 {
-	class Program
+	class Food
 	{
-		static void Main(string[] args)
-		{
-		}
-
 	}
 }

@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Equality_and_Comparisons
+namespace EqualityComparers
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
 		}
-
 	}
 }
